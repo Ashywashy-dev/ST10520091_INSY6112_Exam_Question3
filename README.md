@@ -1,0 +1,2 @@
+# ST10520091_INSY6112_Exam_Question3
+SQL code for the INSY EXAM on 2026/11/05
